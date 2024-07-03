@@ -1,0 +1,5 @@
+/home/talbi/workspace/reservations-service/src/main/java/com/test/reservations_service/ReservationsServiceApplication.java
+/home/talbi/workspace/reservations-service/src/main/java/com/test/reservations_service/controller/ReservationController.java
+/home/talbi/workspace/reservations-service/src/main/java/com/test/reservations_service/model/Reservation.java
+/home/talbi/workspace/reservations-service/src/main/java/com/test/reservations_service/repository/ReservationRepository.java
+/home/talbi/workspace/reservations-service/src/main/java/com/test/reservations_service/service/ReservationService.java

@@ -1,0 +1,5 @@
+com/test/reservations_service/model/Reservation.class
+com/test/reservations_service/service/ReservationService.class
+com/test/reservations_service/repository/ReservationRepository.class
+com/test/reservations_service/controller/ReservationController.class
+com/test/reservations_service/ReservationsServiceApplication.class
