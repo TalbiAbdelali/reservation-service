@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.test.reservations_service.service.ReservationServiceTest
--------------------------------------------------------------------------------
-Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.781 s -- in com.test.reservations_service.service.ReservationServiceTest
